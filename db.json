@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nama": "Adib similikiti",
+      "asal": "pekalongan",
+      "umur": "12",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "2",
+      "nama": "Darmaji",
+      "asal": "jogja",
+      "umur": "22",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "3",
+      "nama": "Budi pruonom",
+      "asal": "demak",
+      "umur": "13",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "4",
+      "nama": "Sinta similikiti",
+      "asal": "pekalongan",
+      "umur": "12",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "5",
+      "nama": "alan permana",
+      "asal": "jogja",
+      "umur": "22",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "6",
+      "nama": "Arifin zaenal",
+      "asal": "demak",
+      "umur": "13",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "7",
+      "nama": "Muhammad arifin",
+      "asal": "pekalongan",
+      "umur": "12",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "8",
+      "nama": "Dimas aji",
+      "asal": "jogja",
+      "umur": "22",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "9",
+      "nama": "Fajar pruonom",
+      "asal": "demak",
+      "umur": "13",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "10",
+      "nama": "fatma muliyasi",
+      "asal": "pekalongan",
+      "umur": "12",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "11",
+      "nama": "Darmaji mangkualam",
+      "asal": "jogja",
+      "umur": "22",
+      "nohp": "08562415263"
+    },
+    {
+      "id": "12",
+      "nama": "Susi pruonom",
+      "asal": "demak",
+      "umur": "13",
+      "nohp": "08562415263"
+    }
+  ]
+}
